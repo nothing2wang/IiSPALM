@@ -3,4 +3,4 @@ demo for `` An Improved Inertial Stochastic Proximal Alternating Linearized Mini
 
 
 
-demo for Non-negative CP decompsoition
+demo for Non-negative CP decomposition
